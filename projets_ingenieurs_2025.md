@@ -1,3 +1,7 @@
+* Liste des Projets PFA 2025
+
+* ** A. Larhlimi
+
 - **Titre du Projet :** Plateforme Intelligente de Gestion des Tickets du Mondial 2030
 - **Description :** Système de billetterie avec détection de fraude par IA, distribution optimisée des places selon les flux de spectateurs et intégration blockchain pour la traçabilité. La plateforme gère l'achat, le transfert sécurisé et le contrôle d'accès en temps réel.
 - **Technologies Suggérées :** Spring Boot, Angular, Machine Learning (Python), Blockchain
